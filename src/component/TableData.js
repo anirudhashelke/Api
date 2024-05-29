@@ -20,10 +20,10 @@ const TableData = () => {
                     <th scope="col">Name</th>
                     <th scope="col">Username</th>
                     <th scope="col">Email</th>
-                    <th scope="col">Address</th>
                     <th scope="col">city</th>
-                    <th scope="col">street</th>
-                    <th scope="col">zipcode</th>
+                    <th scope="col"> street</th>
+                    <th scope="col"> zipcode</th>
+                    <th scope="col">suite</th>
                     <th scope="col">name</th>
                     <th scope="col">catchPhrase</th>
                 </tr>
